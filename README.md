@@ -109,3 +109,7 @@ In order to keep a secure and friendly platform, we decided to only enable commu
 Once a "match request is accepted" the user gets a new notification in the dashboard.
 
 From there, they can start messaging each other and share details about their dogs.
+
+**Technologies used**
+
+EJS, CSS, JS, NodeJs with Express, PostgresSQL with Sequelize
