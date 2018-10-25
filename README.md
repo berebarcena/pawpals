@@ -112,4 +112,4 @@ From there, they can start messaging each other and share details about their do
 
 **Technologies used**
 
-EJS, CSS, JS, NodeJs with Express, PostgresSQL with Sequelize
+NodeJS + Express, PostgreSQL + Sequelize, ES6, EJS and CSS
